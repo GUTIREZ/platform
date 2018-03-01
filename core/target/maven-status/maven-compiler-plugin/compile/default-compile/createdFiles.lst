@@ -1,0 +1,11 @@
+com\scenever\core\config\WebSecurityConfig.class
+com\scenever\core\config\WebMvcConfig.class
+com\scenever\core\domain\SysRole.class
+com\scenever\core\security\CustomUserService.class
+test\CoreTest.class
+com\scenever\core\CoreApplication.class
+com\scenever\core\dao\SysUserRepository.class
+test\TestObj.class
+com\scenever\core\web\HomeController.class
+com\scenever\core\domain\Msg.class
+com\scenever\core\domain\SysUser.class
